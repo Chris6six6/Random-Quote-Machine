@@ -1,0 +1,16 @@
+/* Definición de la animación */
+@keyframes fade {
+    0% {
+      opacity: 0; /* Opacidad inicial: invisible */
+    }
+    100% {
+      opacity: 1; /* Opacidad final: completamente visible */
+    }
+  }
+  
+  /* Estilo del elemento que será animado */
+  #quote-box {
+    opacity: 0; /* Por defecto, el elemento estará invisible */
+    animation: fade 4s ease forwards; /* Aplicar la animación */
+  }
+  
