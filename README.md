@@ -20,7 +20,7 @@ This project fulfills the following user stories:
 
 ## How to Use
 
-1. Visit the [Random Quote Machine](URL_HERE).
+1. Visit the [Random Quote Machine](https://chris6six6.github.io/Random-Quote-Machine/).
 2. Click the "New Quote" button to fetch and display a new quote.
 3. Click the "Tweet Quote" button to tweet the current quote.
 
